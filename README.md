@@ -1,4 +1,4 @@
 ### 1APL2023 
 # bibiana
 ## pensaento computacional
-colegio paulo leminski
+- colegio paulo leminski
